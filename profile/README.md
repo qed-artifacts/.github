@@ -25,4 +25,3 @@ QED-AI is a Virginia nonstock corporation. Federal tax-exempt recognition is pen
 
 - Website: [qedartifacts.org](https://qedartifacts.org)
 - Public correspondence: [contact@qedartifacts.org](mailto:contact@qedartifacts.org)
-
