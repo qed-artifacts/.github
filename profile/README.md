@@ -35,3 +35,13 @@ QED-AI is a Virginia nonstock corporation. Federal tax-exempt recognition is pen
 Each portal is maintained in a separate organization-owned repository so its
 public artifacts and lightweight applications can evolve without coupling the
 other domains. Portal scopes remain provisional and cross-domain aware.
+
+## Public infrastructure
+
+- [Public platform](https://github.com/qed-artifacts/qed-public-platform) — shared, validated presentation and deployment contract
+- [Public registry](https://github.com/qed-artifacts/qed-public-registry) — domain, information-classification, and publication-boundary records
+
+Public repositories contain unrestricted material only. Board, legal, tax,
+administrative, security-sensitive, confidential, and restricted-source records
+are maintained in controlled Microsoft 365 spaces and are never published merely
+because a public artifact derives from them.

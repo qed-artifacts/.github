@@ -1,0 +1,6 @@
+{
+  "name": "QED-AI domain portal",
+  "description": "Validate, build, and publish a configuration-driven QED-AI domain portal.",
+  "iconName": "octicon globe",
+  "categories": ["Deployment", "JavaScript"]
+}
