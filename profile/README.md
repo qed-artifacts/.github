@@ -25,3 +25,13 @@ QED-AI is a Virginia nonstock corporation. Federal tax-exempt recognition is pen
 
 - Website: [qedartifacts.org](https://qedartifacts.org)
 - Public correspondence: [contact@qedartifacts.org](mailto:contact@qedartifacts.org)
+
+## Domain portals
+
+- [Higher Education](https://qedartifacts.org/higher-education/) — learning, institutions, systems, outcomes, and public value
+- [Quality of Life](https://qedartifacts.org/quality-of-life/) — conditions, capabilities, lived experience, measures, and consequences
+- [Healthcare](https://qedartifacts.org/healthcare/) — people, care, implementation, outcomes, systems, and stewardship
+
+Each portal is maintained in a separate organization-owned repository so its
+public artifacts and lightweight applications can evolve without coupling the
+other domains. Portal scopes remain provisional and cross-domain aware.
